@@ -1,0 +1,14 @@
+{
+  "name": "pengchasite",
+  "version": "1.0.0",
+  "description": "Pengchatech's official website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pengchatech",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
